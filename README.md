@@ -34,9 +34,9 @@ Here are some ideas to get you started: -->
 ## 🛠️ Technologies and Tools I use:
 
 <p>
-<img alt="golang" src="https://img.shields.io/badge/golang-ffffff?style=for-the-badge&logo=go&logoColor=white" height="25px"/>
+<img alt="golang" src="https://img.shields.io/badge/golang-ffffff?style=for-the-badge&logo=go" height="25px"/>
 <img alt="php" src="https://img.shields.io/badge/php-0000FF?style=for-the-badge&logo=php&logoColor=000000"  height="25px"/>
-<img alt="laravel" src="https://img.shields.io/badge/laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=fffff"  height="25px"/>
+<img alt="laravel" src="https://img.shields.io/badge/laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=fffff"  height="25px"/>
 <img alt="ci4" src="https://img.shields.io/badge/codeigniter4-ffffff?style=for-the-badge&logo=codeigniter&logoColor=fffff"  height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
