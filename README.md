@@ -63,5 +63,5 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SyaibanAhmadRamadhan&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyaibanAhmadRamadhan&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyaibanAhmadRamadhan&" alt="SyaibanAhmadRamadhan" />
 </div>
