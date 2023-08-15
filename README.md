@@ -20,7 +20,9 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on `jasanya.tech`.
 
 - 🌱 I’m currently learning `golang`
-
+  
+- 🌱 i work as `golang` backend
+  
 - 👯 I’m looking to collaborate for `Dev Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
