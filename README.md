@@ -36,16 +36,15 @@ Here are some ideas to get you started: -->
 <p>
 <img alt="golang" src="https://img.shields.io/badge/golang-ffffff?style=for-the-badge&logo=go" height="25px"/>
 <img alt="php" src="https://img.shields.io/badge/php-0000FF?style=for-the-badge&logo=php&logoColor=000000"  height="25px"/>
-<img alt="laravel" src="https://img.shields.io/badge/laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=fffff"  height="25px"/>
+<img alt="laravel" src="https://img.shields.io/badge/laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=FF0000"  height="25px"/>
 <img alt="ci4" src="https://img.shields.io/badge/codeigniter4-ffffff?style=for-the-badge&logo=codeigniter&logoColor=fffff"  height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+<img alt="flutter" src="https://img.shields.io/badge/flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=61DAFB" height="25px"/>
+<img alt="postgresql" src="https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=00FFFF" height="25px"/>
+<img alt="mysql" src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=default" height="25px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+<img alt="redis" src="https://img.shields.io/badge/redis-white?&logo=redis" height="25px"/>
+<img alt="kafka" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
 <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
