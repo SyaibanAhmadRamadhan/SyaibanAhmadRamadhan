@@ -11,6 +11,8 @@ Here are some ideas to get you started: -->
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://ibanrmaa.jasanya.tech/)**
+  
+- My gist **[My Website](https://gist.github.com/SyaibanAhmadRamadhan)**
 
 - 🔭 I’m currently working on `jasanya.tech`.
 
