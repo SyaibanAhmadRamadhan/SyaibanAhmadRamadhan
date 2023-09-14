@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
   
 - My gist **[My Gist](https://gist.github.com/SyaibanAhmadRamadhan)**
 
-- 🔭 I’m currently working on `jasanya.tech`.
+- 🔭 I’m currently working on freelance **[Jasanya.tech](https://jasanya.tech)**.
 
 - 🌱 I’m currently learning `golang`
   
