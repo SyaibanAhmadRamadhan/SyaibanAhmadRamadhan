@@ -10,13 +10,11 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://ibanrmaa.jasanya.tech/)**
+<!-- - 🙋‍♂️ All about me is at **[My Website](https://ibanrmaa.jasanya.tech/)** -->
   
 - My gist **[My Gist](https://gist.github.com/SyaibanAhmadRamadhan)**
 
-- 🔭 I’m currently working on freelance **[Jasanya.tech](https://jasanya.tech)**.
-
-- 🌱 I’m currently learning `golang`
+- 🌱 I’m currently learning `golang, rust, and java`
   
 - 🌱 i work as backend `golang`
   
